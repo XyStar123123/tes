@@ -1,0 +1,1 @@
+Maaf jika website terlihat terlihat seperti ai pak karena memang menggunakan ai agar lebih efisien.
