@@ -1,3 +1,16 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaskZen - Minimalist To-Do List</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased">
+    <!-- Navbar + Hero -->
 
-echo "Halaman Index";
+    <!-- Content -->
+
+    <!-- CTA Card + Footer -->
+</body>
+</html>
