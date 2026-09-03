@@ -49,6 +49,7 @@
                 <h3 style="font-size: 28px; font-weight: bold; margin: 0; color: #f8fafc;">24/7</h3>
                 <p style="font-size: 14px; color: #64748b; margin: 5px 0 0 0;">Dukungan Layanan</p>
             </div>
+
         </div>
 
     </div>
